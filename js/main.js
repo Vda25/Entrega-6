@@ -1,6 +1,6 @@
 let btn1; let btn2;
 
-btn1 = document.getElementById("btn_1");
+btn1 = document.getElementById("btn_enviar");
   btn1.addEventListener("click",enviar);//Acción de presion de botón
 
 function enviar(event){
